@@ -1,0 +1,48 @@
+Helsinki = 
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-helsinki&cart_value=1000&user_lat=60.17094&user_lon=24.93087"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-helsinki&cart_value=1000&user_lat=60.16952&user_lon=24.93545"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-helsinki&cart_value=1000&user_lat=60.17391&user_lon=24.92763"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-helsinki&cart_value=1000&user_lat=60.17223&user_lon=24.93822"
+
+
+Berlin = 
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-berlin&cart_value=1000&user_lat=52.520008&user_lon=13.404954"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-berlin&cart_value=1000&user_lat=52.52221&user_lon=13.41053"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-berlin&cart_value=1000&user_lat=52.51856&user_lon=13.40618"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-berlin&cart_value=1000&user_lat=52.51636&user_lon=13.39958"
+
+
+Tokyo = 
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-tokyo&cart_value=1000&user_lat=35.652832&user_lon=139.839478"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-tokyo&cart_value=1000&user_lat=35.65672&user_lon=139.83522"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-tokyo&cart_value=1000&user_lat=35.65042&user_lon=139.84492"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-tokyo&cart_value=1000&user_lat=35.65431&user_lon=139.84157"
+
+
+Stockholm = 
+Inside 2km
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-stockholm&cart_value=1000&user_lat=59.334591&user_lon=24.93087"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-stockholm&cart_value=1000&user_lat=59.33891&user_lon=18.07109"
+
+Outside 2km
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-stockholm&cart_value=1000&user_lat=59.3561&user_lon=18.045"
+"http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignment-venue-stockholm&cart_value=1000&user_lat=59.3371&user_lon=18.02"
+
+
+/* const helsinkiUserCoordinates = { longitude: 24.93087, latitude: 60.17094 };
+const helsinkiVenueCoordinates = {
+  longitude: 24.92813512,
+  latitude: 60.17012143,
+};
+const stockholmUserCoordinates = { longitude: 24.93087, latitude: 59.334591 };
+const stockholmVenueCoordinates = {
+  longitude: 18.0314984,
+  latitude: 59.3466978,
+};
+
+const berlinUserCoordinates = { longitude: 13.404954, latitude: 52.520008 };
+const berlinVenueCoordinates = { longitude: 13.4536149, latitude: 52.5003197 };
+
+const tokyoUserCoordinates = { longitude: 139.839478, latitude: 35.652832 };
+const tokyoVenueCoordinates = { longitude: 139.7115264, latitude: 35.6459122 }; */
+

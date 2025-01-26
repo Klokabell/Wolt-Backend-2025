@@ -1,0 +1,1 @@
+{"version":3,"file":"customClass.js","sourceRoot":"","sources":["../src/customClass.ts"],"names":[],"mappings":"AAAA,MAAM,aAAc,SAAQ,KAAK;IAG/B,YAAY,OAAe,EAAE,IAAY;QACvC,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,WAAW,CAAC,IAAI,CAAC;IACpC,CAAC;CACF"}
